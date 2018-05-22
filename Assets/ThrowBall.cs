@@ -16,8 +16,6 @@ public class ThrowBall : MonoBehaviour {
         {
             //ballPreFab = (GameObject)Instantiate(Resources.Load("Prefab_Sphere"));
             Instantiate(ballPreFab);
-            ballPreFab.
-            Debug.Log("Fired");
         }
     }
 }
