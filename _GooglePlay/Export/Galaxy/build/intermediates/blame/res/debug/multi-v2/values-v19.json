@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\values-v19\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "148",
+                        "endColumns": "56",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

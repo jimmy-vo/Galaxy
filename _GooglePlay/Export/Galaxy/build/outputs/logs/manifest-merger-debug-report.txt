@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [:exoplayer-r1.5.11:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\07452b7f7d825b64623134feb642593f\AndroidManifest.xml:17:1-28:12
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:19:1-38:12
+MERGED from [:gvr-keyboard:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\a2f1c31a4ecafc4fec9843c4f2691088\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr.aar\6174f7da49f5684f45b4ea47b57029f1\AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\b6ec309430124e636243f2279af8a1f3\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:70-99
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:147-172
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:100-146
+	xmlns:android
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:173-196
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:2:197-227
+supports-screens
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:3-21:17
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:36:5-20
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:36:5-20
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:11:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:50-82
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:106-143
+	android:theme
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:144-182
+	android:isGame
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:4:83-105
+activity#com.JimmyVo.Galaxy1.UnityPlayerActivity
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:5-15:16
+	android:screenOrientation
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:87-118
+	android:resizeableActivity
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:301-335
+	android:configChanges
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:119-300
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:5:336-390
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD+category:name:com.google.intent.category.DAYDREAM
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:6:7-11:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:8:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:9:19-70
+category#com.google.intent.category.DAYDREAM
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:10:9-72
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:10:19-69
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:12:7-82
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:12:59-79
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:12:18-58
+meta-data#com.google.android.vr.icon
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:13:7-105
+	android:resource
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:13:60-102
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:13:18-59
+meta-data#com.google.android.vr.icon_background
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:14:7-115
+	android:resource
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:14:71-112
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:14:18-70
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:16:5-88
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:16:65-85
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:16:16-64
+meta-data#unity.build-id
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:17:5-101
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:17:46-98
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:17:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:18:5-69
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:18:49-66
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:18:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:19:5-75
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:19:51-72
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:19:16-50
+meta-data#android.max_aspect
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:20:5-72
+	android:value
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:20:50-69
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:20:16-49
+uses-sdk
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:22:3-72
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:22:3-72
+MERGED from [:exoplayer-r1.5.11:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\07452b7f7d825b64623134feb642593f\AndroidManifest.xml:24:5-26:41
+MERGED from [:exoplayer-r1.5.11:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.11.aar\07452b7f7d825b64623134feb642593f\AndroidManifest.xml:24:5-26:41
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:24:5-26:41
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:24:5-26:41
+MERGED from [:gvr-keyboard:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\a2f1c31a4ecafc4fec9843c4f2691088\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\a2f1c31a4ecafc4fec9843c4f2691088\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr.aar\6174f7da49f5684f45b4ea47b57029f1\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr.aar\6174f7da49f5684f45b4ea47b57029f1\AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\b6ec309430124e636243f2279af8a1f3\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\b6ec309430124e636243f2279af8a1f3\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:22:3-72
+	android:targetSdkVersion
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:22:40-69
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:22:13-39
+uses-feature#0x00020000
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:23:3-52
+	android:glEsVersion
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:23:17-49
+uses-feature#android.hardware.vr.headtracking
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:24:3-87
+	android:version
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:24:65-84
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:24:17-64
+uses-feature#android.software.vr.mode
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:25:3-84
+	android:required
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:25:57-81
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:25:17-56
+uses-feature#android.hardware.vr.high_performance
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:26:3-96
+	android:required
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:26:69-93
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:26:17-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:27:3-78
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:27:20-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:28:3-65
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:28:5-67
+MERGED from [:gvr-exoplayersupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-exoplayersupport-release.aar\ea258d9c6449b6ffb8974592e4317011\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:28:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:29:3-88
+	android:required
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:29:61-85
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:29:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:30:3-99
+	android:required
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:30:72-96
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:30:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:31:3-108
+	android:required
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:31:81-105
+	android:name
+		ADDED from C:\Users\Duy Vo\Desktop\GitHub\Galaxy\_GooglePlay\Export\Galaxy\src\main\AndroidManifest.xml:31:17-80
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\58ab8f2535092a6ca3f846665dd3f137\AndroidManifest.xml:24:13-27:29
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\Duy Vo\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\52d530a83d705868b7007a9746819bbc\AndroidManifest.xml:18:13-81

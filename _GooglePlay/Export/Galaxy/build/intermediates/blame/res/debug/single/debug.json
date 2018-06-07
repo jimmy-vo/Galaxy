@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\raw_loading_bg.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr-exoplayersupport-release.aar\\ea258d9c6449b6ffb8974592e4317011\\res\\raw\\loading_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\unitygvr.aar\\b6ec309430124e636243f2279af8a1f3\\res\\drawable-nodpi-v4\\vr_icon_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\unitygvr.aar\\b6ec309430124e636243f2279af8a1f3\\res\\drawable-nodpi-v4\\vr_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\src\\main\\res\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Duy Vo\\Desktop\\GitHub\\Galaxy\\_GooglePlay\\Export\\Galaxy\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Duy Vo\\.gradle\\caches\\transforms-1\\files-1.1\\gvr.aar\\6174f7da49f5684f45b4ea47b57029f1\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    }
+]

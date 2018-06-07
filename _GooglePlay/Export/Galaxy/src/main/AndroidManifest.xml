@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.JimmyVo.Galaxy1" xmlns:tools="http://schemas.android.com/tools" android:versionName="1.0" android:versionCode="3" android:installLocation="auto">
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+  <application android:icon="@drawable/app_icon" android:label="@string/app_name" android:isGame="false" android:banner="@drawable/app_banner" android:theme="@style/VrActivityTheme">
+    <activity android:label="@string/app_name" android:screenOrientation="fullSensor" android:launchMode="singleTask" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density" android:resizeableActivity="false" android:name="com.JimmyVo.Galaxy1.UnityPlayerActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="com.google.intent.category.CARDBOARD" />
+        <category android:name="com.google.intent.category.DAYDREAM" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+      <meta-data android:name="com.google.android.vr.icon" android:resource="@drawable/vr_icon_front" />
+      <meta-data android:name="com.google.android.vr.icon_background" android:resource="@drawable/vr_icon_back" />
+    </activity>
+    <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+    <meta-data android:name="unity.build-id" android:value="23fcf5c8-e3c7-4ee9-9eb9-b957ac93c546" />
+    <meta-data android:name="unity.splash-mode" android:value="0" />
+    <meta-data android:name="unity.splash-enable" android:value="False" />
+    <meta-data android:name="android.max_aspect" android:value="2.1" />
+  </application>
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
+  <uses-feature android:glEsVersion="0x00020000" />
+  <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" />
+  <uses-feature android:name="android.software.vr.mode" android:required="false" />
+  <uses-feature android:name="android.hardware.vr.high_performance" android:required="false" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+</manifest>

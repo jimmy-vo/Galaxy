@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/GoogleVR/Demos/Scenes/VideoDemo.unity
+  - enabled: 0
+    path: Assets/_GoogleVR/Demos/Scenes/VideoDemo.unity
     guid: c79d901ffb34f428eadaa3a7269a6c7c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Galaxy.unity
+    guid: 116be8041c12bcf49a030bbc7b6aa695

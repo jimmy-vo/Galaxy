@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: gvr-keyboard:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/907d3076205b940d17994f07afe72c20a89b283a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/907d3076205b940d17994f07afe72c20a89b283a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

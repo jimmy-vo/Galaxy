@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GvrDialogTheme" parent="@android:style/Theme.Material.Light.Dialog">
+</style>
+    <style name="UnityThemeSelector" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+</style>
+</resources>

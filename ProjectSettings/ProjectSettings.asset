@@ -7,12 +7,12 @@ PlayerSettings:
   productGUID: 992aa2fc7bc7a3d479f651c2adee5c40
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: JimmyVo
-  productName: ThrowTheBalls
+  productName: Galaxy
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -135,14 +135,14 @@ PlayerSettings:
   xboxOneEnable7thCore: 0
   vrSettings:
     cardboard:
-      depthFormat: 0
-      enableTransitionView: 0
+      depthFormat: 1
+      enableTransitionView: 1
     daydream:
-      depthFormat: 0
+      depthFormat: 1
       useSustainedPerformanceMode: 0
       enableVideoLayer: 0
       useProtectedVideoMemory: 0
-      minimumSupportedHeadTracking: 1
+      minimumSupportedHeadTracking: 0
       maximumSupportedHeadTracking: 1
     hololens:
       depthFormat: 1
@@ -158,10 +158,10 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: JimmyVo.ThrowTheBalls
+    Android: com.JimmyVo.Galaxy1
   buildNumber: {}
-  AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 24
+  AndroidBundleVersionCode: 4
+  AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
   aotOptions: 
@@ -243,8 +243,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Duy Vo/Desktop/GitHub/Galaxy/_GooglePlay/user.keystore
+  AndroidKeyaliasName: galaxy
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
   AndroidEnableTango: 0
@@ -260,15 +260,18 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+      m_Icon: {fileID: 2800000, guid: 6fe5db397b85f744b90d5b30fcaa2dec, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
   m_BuildTargetBatching:
   - m_BuildTarget: Android
     m_StaticBatching: 1
-    m_DynamicBatching: 1
-  m_BuildTargetGraphicsAPIs: []
+    m_DynamicBatching: 0
+  m_BuildTargetGraphicsAPIs:
+  - m_BuildTarget: AndroidPlayer
+    m_APIs: 0b00000008000000
+    m_Automatic: 1
   m_BuildTargetVRSettings:
   - m_BuildTarget: Android
     m_Enabled: 1
